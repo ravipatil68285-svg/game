@@ -1,2 +1,15 @@
-# game
-game
+<!DOCTYPE html>
+
+2<body>
+
+3 <div id="score">Score: 0</div>
+
+4 <div id="game">
+
+5 <div id="timer">10</div>
+
+6 <div id="star">⭐</div>
+
+7 </div>
+
+8</body>
